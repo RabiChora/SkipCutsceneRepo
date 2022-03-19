@@ -1,0 +1,18 @@
+[
+    {
+        "Author": "Windmourn",
+        "Name": "Skip Cutscene",
+        "InternalName": "SkipCutscene",
+        "AssemblyVersion": "1.2.0.2",
+        "Description": "This plugin can help you skip cutscene from\nthese instances.\n\nCastrum Meridianum\nThe Praetorium",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/a08381/Dalamud.SkipCutscene/archive/refs/tags/1.2.0.2.zip",
+        "DownloadLinkTesting": "https://github.com/a08381/Dalamud.SkipCutscene/archive/refs/tags/1.2.0.2.zip",
+        "DownloadLinkUpdate": "https://github.com/a08381/Dalamud.SkipCutscene/archive/refs/tags/1.2.0.2.zip"
+    }
+]
